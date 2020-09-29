@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Contributors
 Jamie Myland AND ME!
+Raegar
 
 ## Available Scripts
 
