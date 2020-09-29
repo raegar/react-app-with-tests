@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Contributors
 Jamie Myland AND ME, and ME!
-
+Daniel
 ## Available Scripts
 
 In the project directory, you can run:
