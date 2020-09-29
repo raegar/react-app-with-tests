@@ -1,7 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Contributors
-Jamie Myland AND ME, and ME!
+
+Jamie Myland AND ME!
+Raegar
 
 ## Available Scripts
 
