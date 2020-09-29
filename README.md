@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Contributors
 
-Jamie Myland
-Niki Heaney
-Raegar
+Jamie Myland<br>
+Niki Heaney<br>
+Raegar<br>
 
 ## Available Scripts
 
