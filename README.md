@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Jamie Myland<br>
 Niki Heaney<br>
 Raegar<br>
-Danielle Skutela<br>
+Danielle Skutela  
 Jamie Hamilton<br>
 Elliot Reed<br>
 
