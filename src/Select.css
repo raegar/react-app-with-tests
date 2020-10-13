@@ -1,0 +1,15 @@
+.SelectionBox{
+    background-color:   #005C6E;
+    color: white;
+    border-radius: 25px;
+    border: 2px solid white;
+  width:900px;
+}
+
+.Options{
+    background-color:   #005C6E;
+    color: white;
+    border-radius: 25px;
+    border: 2px solid white;
+  
+}

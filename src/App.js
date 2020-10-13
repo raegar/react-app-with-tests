@@ -5,6 +5,15 @@ import Link from './Link.react';
 import Button from './Button.react';
 import Users from './Users.react';
 import './styles/style.css';
+import React from 'react';
+import logo from './logo.svg';
+import './App.css';
+import Select from './Select.js';
+import MyComponent from './SelectionBox.js';
+
+import Button2 from './UCPButton.js';
+import Button from '../node_modules/react-bootstrap/Button';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
   render() {
@@ -29,6 +38,10 @@ class App extends Component {
           <Button text="CLICK ME" />
           <br />
           <Users />
+<br></br>
+          <Button2></Button2>
+<Select></Select>
+<MyComponent></MyComponent>
         </header>
       </div>
     );
