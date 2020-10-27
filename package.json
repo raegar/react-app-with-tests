@@ -2,6 +2,7 @@
   "name": "react-app-with-tests",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://raegar.github.io/react-app-with-tests/",
   "dependencies": {
     "@babel/core": "^7.4.3",
     "axios": "^0.19.0",
